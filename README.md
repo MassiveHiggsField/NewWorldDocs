@@ -4,10 +4,10 @@ Hier sammeln wir alle Anforderungen um den Sandwurm-Raid zu schlagen. Wir halten
 
 ## Wichtige Hinweise
 
-1. Wenn eine Uhrzeit angekündigt wird, wird erwartet das ihr zu diesem Zeitpunkt alle eure Vorbereitungen abgeschlossen habt!
-2. Abweichungen von den hier genannten Skillbäumen oder sogar Waffen müssen vor dem Beginn abgesprochen werden!
-3. Jeder neue Spieler muss vor dem Start einen Gearcheck gemacht haben!
-4. Auch wenn es mal nicht gut läuft, geht respektvoll miteinander um auch wenn jemand eure Fehler direkt anspricht. Fehler passieren, wenn diese aber zur Gewohnheit werden, müssen wir reagieren. Es kostet sehr viel Zeit wenn man immer wieder neu starten muss!
+1. **Wenn eine Uhrzeit angekündigt wird, wird erwartet das ihr zu diesem Zeitpunkt alle eure Vorbereitungen abgeschlossen habt!**
+2. **Abweichungen von den hier genannten Skillbäumen oder sogar Waffen müssen vor dem Beginn abgesprochen werden!**
+3. **Jeder neue Spieler muss vor dem Start einen Gearcheck gemacht haben!**
+4. **Auch wenn es mal nicht gut läuft, geht respektvoll miteinander um auch wenn jemand eure Fehler direkt anspricht. Fehler passieren, wenn diese aber zur Gewohnheit werden, müssen wir reagieren. Es kostet sehr viel Zeit wenn man immer wieder neu starten muss!**
 
 ## Grundsätzliche Anforderungen
 
