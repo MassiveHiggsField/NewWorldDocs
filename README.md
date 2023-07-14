@@ -8,7 +8,7 @@ Hier sammeln wir alle Anforderungen um den Sandwurm-Raid zu schlagen. Wir halten
 2. **Abweichungen von den hier genannten Skillbäumen oder sogar Waffen müssen vor dem Beginn abgesprochen werden!**
 3. **Jeder neue Spieler muss vor dem Start einen Gearcheck gemacht haben!**
 4. **Auch wenn es mal nicht gut läuft, geht respektvoll miteinander um auch wenn jemand eure Fehler direkt anspricht. Fehler passieren, wenn diese aber zur Gewohnheit werden, müssen wir reagieren. Es kostet sehr viel Zeit wenn man immer wieder neu starten muss!**
-5. **Um maximale Chancen zu haben mitgenommen zu werden, ist es von Vorteil wenn ihr mehrere Rollen füllen könnt, Melee-DPS und Range-DPS ist schon einmal eine gute Kombination, dazu vielleicht noch eine spezielle Rolle und ihr seit sehr gut abgedeckt**
+5. **Um maximale Chancen zu haben mitgenommen zu werden, ist es von Vorteil wenn ihr mehrere Rollen füllen könnt, Melee-DPS und Range-DPS ist schon einmal eine gute Kombination, dazu vielleicht noch eine spezielle Rolle und ihr seid sehr gut abgedeckt**
 
 ## Grundsätzliche Anforderungen
 
