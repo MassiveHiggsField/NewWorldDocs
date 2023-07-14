@@ -2,6 +2,13 @@
 
 Hier sammeln wir alle Anforderungen um den Sandwurm-Raid zu schlagen. Wir halten uns grundsätzlich an die [M11-Anforderungen](https://pvebuilds.xyz/builds/) .
 
+## Wichtige Hinweise
+
+1. Wenn eine Uhrzeit angekündigt wird, wird erwartet das ihr zu diesem Zeitpunkt alle eure Vorbereitungen abgeschlossen habt!
+2. Abweichungen von den hier genannten Skillbäumen oder sogar Waffen müssen vor dem Beginn abgesprochen werden!
+3. Jeder neue Spieler muss vor dem Start einen Gearcheck gemacht haben!
+4. Auch wenn es mal nicht gut läuft, geht respektvoll miteinander um auch wenn jemand eure Fehler direkt anspricht. Fehler passieren, wenn diese aber zur Gewohnheit werden, müssen wir reagieren. Es kostet sehr viel Zeit wenn man immer wieder neu starten muss!
+
 ## Grundsätzliche Anforderungen
 
 Egal welche Rolle erfüllt wird, darf ausschließlich in leichter Rüstung gespielt werden. Hinzu kommt, das mit maximal 50 Konsitution gespielt werden muss. Das bedeutet das die Medium-Rüstung aus der Quest-Reihe nur als Füller dienen darf. Es reicht aber völlig aus mit entsprechender epischer Rüstung mit zwei Perks zu spielen. Siehe weiter unten den Punkt "Rüstung". Zusätzlich zu den typischen Consumables (Attribut-Essen, T5 Schleifstein, herzhaftes Mahl) muss noch folgendes verfügbar sein:
@@ -16,13 +23,11 @@ Eure Hotkeys-Leiste sollte so aussehen:
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/b8a600ea-057d-4a63-a590-221fbe4d03c2)
 
-@todo Hinweis zu Skillabweichungen, fehlenden BiS Items etc pp!! Hinweis für mehrere Rollen
-
 ## Rüstung
 
 Es darf nur in leichter Rüstung gespielt werden und alle Teile müssen Bestienschutz drauf haben. Ausserdem muss auf jedem Rüstungsteil Chitinpolster gesockelt sein. Abgesehen von der von der Rolle abhängigen Waffenperks (siehe "Rollen"), ist der zweitbeste Perk "Erfrischung". Der einzige weitere Perk der noch nützlich wäre, ist Ermächtigender Durchbruch. Anstatt Erfrischung ist auch Erfischendes Ausweichen möglich, aber je nach gespielter Rolle ist deutlich schwächer als Erfrischung. Andere Perks (zB Freiheit oder Kraft) haben für den Sandwurm-Raid überhaupt keinen Nutzen. Stärkender Konter hätte auch noch einen gewissen Nutzen, allerdings schließen sich stärkender Konter und Bestienbann beim Craften aus. Es gibt allerdings die [Hirtenschuhe](https://nwdb.info/db/item/lightfeet_shepherdsshoest5_v2) welche diese illegale Kombination haben und gefarmt werden können. Sonst gibt es keine guten Rüstungsteile die man farmen könnte (abgesehen von ein paar Teilen die man aber nur direkt vom Sandwurm selber bekommt). 
 
-@todo Hinweis für Keen Tondo
+Ein letzter Hinweis noch für den Perk "Eifriger Tondo". Diesen kann sich im Prinzip jeder Spieler auf die Rüstung packen, egal welche Waffe er spielt. Wenn der Blutungs-Rapier seinen Tondo ausführt, bekommen alle Spieler mit diesem Perk auf der Rüstung den Crit-Bonus!
 
 ## Rollen
 
