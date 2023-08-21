@@ -10,7 +10,7 @@
 - T5 Bestienbeschichtung
 - T5 Weihrauch
 - T5 Schleifstein
-- ensprechendes Attribut-Food, bitte das +40 Dex|Int|Str Essen verwenden
+- ensprechendes Attribut-Food, bitte das +40 Dex, Int, Str Essen verwenden
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/b8a600ea-057d-4a63-a590-221fbe4d03c2)
 
