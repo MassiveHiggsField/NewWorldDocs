@@ -7,7 +7,10 @@
 # Consumables 
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/b8a600ea-057d-4a63-a590-221fbe4d03c2)
-![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/678cd0b8-941d-4176-82a3-ca6bca665dba)
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/23b2d157-cc58-4318-9d92-2ac96b09a6f2)
+
+
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/30bc5a03-a2de-44d5-89c8-32ccca77e9ec)
 
 # Rüstung
 
