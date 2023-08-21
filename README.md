@@ -1,4 +1,4 @@
-# Consumables / Trophies
+# Verbrauchsgegenstände / Trophäen
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/6c444a08-2caa-486d-9871-2ac86487f213)
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/3fd92504-c6e3-40a3-b099-492e98069fc9)
@@ -8,43 +8,36 @@
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/146e8925-51b1-4150-9442-5a7211f23c4f)
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/0ea9ba08-c156-4b67-8330-caacd7f4f852)
 
-
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/b8a600ea-057d-4a63-a590-221fbe4d03c2)
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/994812c2-ee27-4fc3-b78f-4ec7cd8903ac)
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/30bc5a03-a2de-44d5-89c8-32ccca77e9ec)
 
-# Armor
+# Rüstung
 
-- komplett leichte Rüstung, 5x Bestienschutz, ein Teil mit **Eifriger Tondo**!
+Allgemeines:
+
+- komplett leichte Rüstung, 5x Bestienschutz
 - so wenig Konstitution wie möglich, am besten 5, auf den Lichtern 50
-- beste Perks: **Biest-Schutz > Waffen-Perk > Erfrischung > Ermächtigender Durchbruch > Erfrischendes Ausweichen**
+- wichtige Perks neben Biest-Schutz: **Waffen-Perk > Erfrischung > Ermächtigender Durchbruch > Erfrischendes Ausweichen**
 
-Alle anderen Perks wie zB Freiheit, Physischer Widerwille, oder was auch immer sind nutzlos beim Wurm
-
-## Schmuck
-
-### Amulett
-
-    Gesundheit > Erfrischung > Ermächtigung > Schlagschutz (lieber Schlagschutz wenn unsicher)
-
-Int-Spieler können **The Last Prophecy** farmen, für Dex-Spieler gibt es **Magick Empowerment** (wobei das mit 10 Konsti ist). 
-
-### Ring 
-
-Für quasi jeden Spieler ist der mit Abstand beste Ring **Heart of Anhurawak**, weil der eine illegale Damage-Perk Kombo hat. Hat man den noch nicht, gibt es noch die Alternative **Heart of Aviva**. Einzige Ausnahmen sind hier zB Großschwert-Spieler, Heiler oder Mages. 
-
-    Thrust Damage > Blood Letting > Keen Awareness > Leeching > Refreshing.
-    
-## Edelsteine/Sockel/Runengläser
+Alle anderen Perks wie zB Freiheit, Physischer Widerwille, oder was auch immer sind nutzlos beim Wurm. Gesockelt werden sollte alles so:
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/23e06165-d31a-4862-97c0-e44d293c7a3d)
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/52e4f592-315a-4ca3-bd31-2c50bcfb343e)
 
-## Runen
+# Amulett
 
-Grundsätzlich spielen alle Melees die brutale Detonations-Rune und alle Fernkämpfer die Kanone. Ansonsten kann man noch folgende Runen mitbringen (max. 1x): Firestorm > Vines > Bile Bomb. 
+**Gesundheit > Erfrischung > Ermächtigung > Schlagschutz (lieber Schlagschutz wenn unsicher)**
+
+Int-Spieler können [The Last Prophecy](https://nwdb.info/db/item/amulett5_thelastprophecy_v2) farmen, für Dex-Spieler gibt es [Magick Empowerment](https://nwdb.info/db/item/amulet_magickempowermentt5) (wobei das mit 10 Konsti ist). 
+
+# Ring 
+
+Für quasi jeden Spieler ist der mit Abstand beste Ring [Heart of Anhurawak](https://nwdb.info/db/item/ringt5_heartofanhurawak_v2), weil der eine illegale Damage-Perk Kombo hat. Hat man den noch nicht, gibt es noch die Alternative [Heart of Aviva](https://nwdb.info/db/item/ringt5_heartofaviva_v2). Einzige Ausnahmen sind hier zB Großschwert-Spieler, Heiler oder Mages. 
+
+**Stichschaden > Aderlass > Eifrige Wahrnehmung > Aussaugend > Erfrischung.**
 
 # Rollen
 
@@ -57,6 +50,7 @@ Es wird zur Zeit noch mit zwei Heilern gespielt, es ist aber auch mit einem mög
 - Oblivion, Fesseln und Voidklinge spammen
 - Wenn möglich nur Heilen in Phasen mit Adds
 - Bei Goldie Boys ebenfalls die Fesseln drauf setzen
+- (optional) gerade wenn mit zwei Heilern gespielt wird, kann einer der Heiler dazu genutzt werden, den zweiten Goldie zu kiten
 
 ### Skillung
 
@@ -66,6 +60,8 @@ Es wird zur Zeit noch mit zwei Heilern gespielt, es ist aber auch mit einem mög
 ## Tank
 
 ### Spielweise
+
+Es gibt verschiedene 
 
 - steht soweit links (Licht 1) wie möglich und steuert auch Licht 1
 - kann sogar von oben starten, wenn das nicht klappt, erst von unten spotten, dann hoch
