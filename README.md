@@ -1,26 +1,27 @@
-# Grundsätzliche Anforderungen
+# Consumables / Trophies
 
-- so wenig Konsti wie möglich (am besten 5, auf den Lichtern vlt auch 50)
-- 3x große Bestientrophäe
-- 3x mittlere/gro0e zornige Erdkreaturen-Trophäe
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/6c444a08-2caa-486d-9871-2ac86487f213)
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/3fd92504-c6e3-40a3-b099-492e98069fc9)
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/e2b3275c-d0f7-4627-8578-140cba348832)
 
-# Consumables 
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/ca203ff8-76b2-4090-8156-3157890e19ab)
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/146e8925-51b1-4150-9442-5a7211f23c4f)
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/0ea9ba08-c156-4b67-8330-caacd7f4f852)
+
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/b8a600ea-057d-4a63-a590-221fbe4d03c2)
-![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/23b2d157-cc58-4318-9d92-2ac96b09a6f2)
 
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/994812c2-ee27-4fc3-b78f-4ec7cd8903ac)
 
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/30bc5a03-a2de-44d5-89c8-32ccca77e9ec)
 
-# Rüstung
+# Armor
 
-## Allgemeines
-
-- komplett leichte Rüstung, 5x Bestienschutz, ein Teil mit **Eifirger Tondo**!
+- komplett leichte Rüstung, 5x Bestienschutz, ein Teil mit **Eifriger Tondo**!
 - so wenig Konstitution wie möglich, am besten 5, auf den Lichtern 50
 - beste Perks: **Biest-Schutz > Waffen-Perk > Erfrischung > Ermächtigender Durchbruch > Erfrischendes Ausweichen**
 
-Alle anderen Perks wie zB Freiheit, Physischer Widerwille, oder was auch immer sind nutzlos beim Wurm.
+Alle anderen Perks wie zB Freiheit, Physischer Widerwille, oder was auch immer sind nutzlos beim Wurm
 
 ## Schmuck
 
