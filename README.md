@@ -11,7 +11,6 @@
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/b57ad317-2bb5-4196-a3c3-e4be9ba944ab)
 ![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/994812c2-ee27-4fc3-b78f-4ec7cd8903ac)
 
-
 # Rüstung
 
 ## Allgemeines:
@@ -51,9 +50,22 @@ Da der Tank grundsätzlich ausserhalb der Reichweite aller Spott-Fähigkeiten sp
 **Beste Waffen-Perks** Bestienbann > Bösartig > Wild > Einstimmung > Eifrige Ermächtigung > Omnidirektionales Ausweichen > Eifriger Schlitzer > Kette
 **Rune** Brutale Detonations-Rune
 
-Kann in zwei Varianten gespielt werden, "Blut-Rapier" und "Evade-Rapier", wobei diese sich nur in der Skillung unterscheiden. Anzahl der "Blut-Rapiere" sollte abgerundet "Rapier-Spieler / 2 - 1", sprich bei zB 7 Rapier-Spielern, sollten zwei davon "Blut-Rapier" spielen. Die IG-Skillung ist bei beiden identisch:
+Kann in zwei Varianten gespielt werden, "Blut-Rapier" und "Evade-Rapier", wobei diese sich **nur in der Skillung unterscheiden**. Anzahl der "Blut-Rapiere" sollte abgerundet "Rapier-Spieler / 2 - 1", sprich bei zB 7 Rapier-Spielern, sollten zwei davon "Blut-Rapier" spielen. Die IG-Skillung ist bei beiden identisch:
 
-![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/fd1d4d7c-caf3-4e9e-9fd2-a063e476591b)
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/a94abfe0-6617-49e2-9d18-11524d61cfb1)
+
+
+Der Eishandschuh wird aber nur sehr selten verwendet. Die einzigen Situationen sind zB Pylonen zu Beginn oder wenn die Goldies kommen. Ansonsten setzt man auch Pylonen oben in der Stamina-Phase und macht schwere Attacken auf den Wurm. 
 
 ### Evade Rapier
+
+Grundsätzlich benutzt ihr nur zwei Skills: Evade + Flurry. Diese haltet ihr quasi komplett auf Cooldown. Wenn beide Skills auf Cooldown sind, macht man maximnal eine leichte Attacke. 
+
+![image](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/9694923f-73ef-4901-9dc3-64b87cd79648)
+
+Das ganze sollte dann letzendlich so aussehen:
+
+![ezgif-2-c51f04a951](https://github.com/MassiveHiggsField/SandwurmDocs/assets/3681429/7312e8f7-d98f-4cb6-8041-c2d59f141890)
+
+### Blut Rapier
 
