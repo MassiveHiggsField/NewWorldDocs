@@ -60,7 +60,7 @@ Bei den Rüstungsartefakten gibt es zur Zeit nur zwei die wirklich infrage komme
 
 ## Perks
 
-**tl;dr Health > Enchanted Ward|Grit Ward|Elemental Aversion|Shirking Fortification > Waffen-Perks > Slash Conditioning|Shirking Heals|Invigorated**
+**tl;dr Health > Enchanted Ward, Grit Ward, Elemental Aversion, Shirking Fortification > Waffen-Perks > Slash Conditioning, Shirking Heals, Invigorated**
 
 Bevor ich anfange die wichtigsten Perks durchzugehen ein paar Sätze zu Freedom. Ich persönlich habe zuerst immer mit der Freedom-Hose gespielt, bin aber die letzten Kriege auf Darkplate umgestiegen ohne dabei mir woanders Freedom herzuholen. Sprich ich spiele zur Zeit mit 0 Freedom (ausser natürlich den 2x integrierten bei Heavy) und muss sagen, ich vermisse es nicht wirklich. Staggers und Knockdowns sind nicht von Freedom betroffen, also geht es eigentlich nur um Stuns, Slows und Roots. Stuns sind im Krieg nicht ganz so wild, da man quasi ständig Damage bekommt und so jeder Stun immer schnell gebrochen wird. Roots sind schon etwas gefährlicher, aber da man in einem Root weiter dodgen kann, sind auch Roots nicht ganz so wild. Das einzige was durchaus ätzend ist, sind Slows, speziell der Ice Shower. Das muss euch aber einfach bewusst sein und ihr müsst halt versuchen, diese so gut wie möglich zu umgehen oder eben mit Cleansing-Pots zu arbeiten (speziell wenn es darum geht beim Angriff ins Fort zu kommen). 
 
